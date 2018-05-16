@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name doPi_logo)(type KiCad)(uri ./logo.pretty)(options "")(descr ""))
+)
